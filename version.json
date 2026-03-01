@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/novaaurora291-ops/grok-dl-v2/releases/latest/download/GrokStudioDownloader.exe",
-  "release_notes": "• Fixed JSON parsing\n• Mark as Downloaded feature\n• Custom title bar\n• Progress bar % inside\n• Failed downloads txt file\n• Download/Stop icons"
+  "version": "1.0.2",
+  "download_url": "https://github.com/novaaurora291-ops/grok-dl-v2/releases/download/v1.0.2/GrokStudioDownloader.exe",
+  "release_notes": "• Splash screen on startup\n• Progress bar with % inside\n• Failed downloads saved to txt\n• Mark as Downloaded feature\n• Download & Stop button icons\n• Auto update popup with release notes\n• App close confirm dialog\n• Download speed shown in log\n• 5x faster downloads (5 threads)\n• Manual update check button\n• Window opens centered on screen\n• JSON parsing fixed\n• Version comparison fixed\n• Taskbar icon fixed\n• Paste box placeholder fixed"
 }
